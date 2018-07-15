@@ -1,0 +1,620 @@
+{
+  "offer_list": [
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Cdiscount",
+        "email": "jzzcmvrt@tapme.com",
+        "zipcode": "888888",
+        "merchant_id": "utsocu5r",
+        "shop_info": [
+          {
+            "description": "Leading French e-commerce website.",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Cdiscount",
+            "merchant_id": "utsocu5r",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "u0n8uwny",
+            "email": "abc@clarks.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/u0n8uwny/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "utsocu5r",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 1600,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "affiliate",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "3q4edhyc",
+      "offer_title": "something",
+      "offer_discount": 3.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926020,
+      "offer_description": "We are a leading French e-commerce website with a broad offering across various categories, specializing in tech ",
+      "is_student": null,
+      "offer_url_display_text": "http://www.cdiscount.com/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390020,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=6948&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/3q4edhyc/2x.jpg"
+      },
+      "offer_category": "Technology"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Expedia",
+        "email": "j4l93z6t@tapme.com",
+        "zipcode": "888888",
+        "merchant_id": "edbicxnv",
+        "shop_info": [
+          {
+            "description": "The world\u2019s travel platform.",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Expedia",
+            "merchant_id": "edbicxnv",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "lqxae4ms",
+            "email": "abc@clarks.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/lqxae4ms/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "edbicxnv",
+      "max_discount": 500.0,
+      "offer_frequency": "One-time",
+      "age_group": "20-45",
+      "num_times_shopped": 1330,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "5h28a3no",
+      "offer_title": "something",
+      "offer_discount": 4.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926017,
+      "offer_description": "Expedia Group is the world\u2019s travel platform, with an extensive brand portfolio that includes some of the world\u2019s most trusted online travel brands.",
+      "is_student": null,
+      "offer_url_display_text": "https://www.sunglassesshop.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390018,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7417&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/5h28a3no/2x.jpg"
+      },
+      "offer_category": "Travel"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Levis",
+        "email": "ehgfp0mb@tapme.com",
+        "zipcode": "888888",
+        "merchant_id": "e2dizur8",
+        "shop_info": [
+          {
+            "description": "A global leader in jeans",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Levis",
+            "merchant_id": "e2dizur8",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "c6ep6scg",
+            "email": "abc@clarks.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/c6ep6scg/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 200.0,
+      "merchant_id": "e2dizur8",
+      "max_discount": 500.0,
+      "offer_frequency": "one-time",
+      "age_group": "20-45",
+      "num_times_shopped": 1400,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "s8uq8025",
+      "offer_title": "something",
+      "offer_discount": 10.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926012,
+      "offer_description": "Levi Strauss & Co. is a global leader in jeans. We have some 500 stores worldwide, and our products are available in more than 100 countries",
+      "is_student": null,
+      "offer_url_display_text": "https://www.sunglassesshop.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390013,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7417&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/s8uq8025/2x.jpg"
+      },
+      "offer_category": "Fashion"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Sephora",
+        "email": "wktjh19d@tapme.com",
+        "zipcode": "888888",
+        "merchant_id": "7yg1mc90",
+        "shop_info": [
+          {
+            "description": "Sephora is a leader in global prestige retail",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Sephora",
+            "merchant_id": "7yg1mc90",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "sbjacyh6",
+            "email": "abc@clarks.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/sbjacyh6/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 100.0,
+      "merchant_id": "7yg1mc90",
+      "max_discount": 200.0,
+      "offer_frequency": "One-time",
+      "age_group": "20-45",
+      "num_times_shopped": 900,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "uopolozz",
+      "offer_title": "something",
+      "offer_discount": 7.5,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926010,
+      "offer_description": "Sephora is a leader in global prestige retail, teaching and inspiring clients to play in a world of beauty. It has earned its reputation as a beauty trailblazer with its expertise, innovation, and entrepreneurial spirit.",
+      "is_student": null,
+      "offer_url_display_text": "https://www.clarks.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390010,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7372&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/uopolozz/2x.jpg"
+      },
+      "offer_category": "Shopping"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Senheiser",
+        "email": "zoot3kba@tapme.com",
+        "zipcode": "888888",
+        "merchant_id": "kxxkrj89",
+        "shop_info": [
+          {
+            "description": "Shaping the future of the audio industry.",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Senheiser",
+            "merchant_id": "kxxkrj89",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "3grxn4vr",
+            "email": "abc@expedia.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/3grxn4vr/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "kxxkrj89",
+      "max_discount": 0.0,
+      "offer_frequency": "one-time",
+      "age_group": "20-45",
+      "num_times_shopped": 1100,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "hnp7yzl2",
+      "offer_title": "something",
+      "offer_discount": 2.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926008,
+      "offer_description": "We are shaping the future of the audio industry, based on our history, our culture of innovation and our passion for excellence.",
+      "is_student": null,
+      "offer_url_display_text": "https://fr-fr.sennheiser.com/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390008,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7841&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/hnp7yzl2/2x.jpg"
+      },
+      "offer_category": "Technology"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Sunglasses Shop",
+        "email": "9kws7crj@rayban.com",
+        "zipcode": "888888",
+        "merchant_id": "kqvbwone",
+        "shop_info": [
+          {
+            "description": "Sunglasses Shop is the number one site for sunglasses",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Sunglasses Shop",
+            "merchant_id": "kqvbwone",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "y3fpvrib",
+            "email": "abc@expedia.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/y3fpvrib/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "kqvbwone",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 780,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "guphwfae",
+      "offer_title": "something",
+      "offer_discount": 3.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926005,
+      "offer_description": "Levi Strauss & Co. is a global leader in jeans. We have some 500 stores worldwide, and our products are available in more than 100 countries",
+      "is_student": null,
+      "offer_url_display_text": "https://www.sunglassesshop.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390006,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7417&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/guphwfae/2x.jpg"
+      },
+      "offer_category": "Shopping"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Clarks",
+        "email": "lqv7b89r@gap.com",
+        "zipcode": "888888",
+        "merchant_id": "3xr88gm4",
+        "shop_info": [
+          {
+            "description": "creating quality footwear since 1825",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Clarks",
+            "merchant_id": "3xr88gm4",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "7t1fw1jp",
+            "email": "abc@expedia.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/7t1fw1jp/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "3xr88gm4",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 1450,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "affiliate",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "rhpuk1sj",
+      "offer_title": "something",
+      "offer_discount": 8.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926003,
+      "offer_description": "Creating quality footwear since 1825. From basic essentials to everyday wear to more fashion-inspired models inspired from fashion shows, from the first baby shoes to school shoes, we have an extensive collection of shoes for the whole family.",
+      "is_student": null,
+      "offer_url_display_text": "https://www.clarks.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390004,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7372&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/rhpuk1sj/2x.jpg"
+      },
+      "offer_category": "Fashion"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Europcar",
+        "email": "r9bj9b48@zara.com",
+        "zipcode": "888888",
+        "merchant_id": "yekrp9l0",
+        "shop_info": [
+          {
+            "description": "French car rental company founded in 1949 in Paris.",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Europcar",
+            "merchant_id": "yekrp9l0",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "lu1dgfj2",
+            "email": "abc@europcar.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/lu1dgfj2/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "yekrp9l0",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 600,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "affiliate",
+      "status": "active",
+      "is_promoted": false,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "fp3yl8bp",
+      "offer_title": "something",
+      "offer_discount": 2.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562926001,
+      "offer_description": "Europcar is a French car rental company founded in 1949 in Paris. Europcar operates in 140 countries covering Europe, North America, Western Asia, and Africa",
+      "is_student": null,
+      "offer_url_display_text": "http://www.europcar.fr/",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531390001,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=7418&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/fp3yl8bp/2x.jpg"
+      },
+      "offer_category": "Travel"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Coup Bikes",
+        "email": "j9262tfc@sephora.com",
+        "zipcode": "888888",
+        "merchant_id": "8od0zi5q",
+        "shop_info": [
+          {
+            "description": "Fun electric scooters for your rides.",
+            "latitude": "12.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Coup Bikes",
+            "merchant_id": "8od0zi5q",
+            "phone_number": "9876543210",
+            "longitude": " 77.609861",
+            "shop_id": "bsg6cd5f",
+            "email": "abc@booking.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/bsg6cd5f/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "8od0zi5q",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 1200,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": true,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "08am66p8",
+      "offer_title": "something",
+      "offer_discount": 50.0,
+      "terms_conditions_url": "https://s3-us-west2.amazonaws.com/beta.chandan.tapmeapp.com.images/expedia.jpg",
+      "discount_end_time": 1562925999,
+      "offer_description": "COUP offers fun electric scooters for your rides. You don't need a motorcycle license.",
+      "is_student": null,
+      "offer_url_display_text": "offer",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531389999,
+      "postal_code": null,
+      "offer_url": "https://s3-us-west2.amazonaws.com/beta.chandan.tapmeapp.com.images/expedia.jpg",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/08am66p8/2x.jpg"
+      },
+      "offer_category": "Travel"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Taxify",
+        "email": "mn4i6aab@levis.com",
+        "zipcode": "888888",
+        "merchant_id": "wgi27tht",
+        "shop_info": [
+          {
+            "description": "Taxify is the smartest way to move around in your city.",
+            "latitude": "16.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Taxify",
+            "merchant_id": "wgi27tht",
+            "phone_number": "9876543210",
+            "longitude": " 78.609861",
+            "shop_id": "bbagugn2",
+            "email": "abc@expedia.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/bbagugn2/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "wgi27tht",
+      "max_discount": 0.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 800,
+      "max_number_users": 1000,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "cardlinked",
+      "status": "active",
+      "is_promoted": true,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "3vf8x581",
+      "offer_title": "something",
+      "offer_discount": 100.0,
+      "terms_conditions_url": "symbol('NO_VALUE')",
+      "discount_end_time": 1562925994,
+      "offer_description": "Tap a Button, Get a Ride Taxify is the smartest way to move around in your city. Get the app for iPhone and Android.",
+      "is_student": null,
+      "offer_url_display_text": "offer",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531389994,
+      "postal_code": null,
+      "offer_url": "https://s3-us-west2.amazonaws.com/beta.chandan.tapmeapp.com.images/expedia.jpg",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/3vf8x581/2x.jpg"
+      },
+      "offer_category": "Travel"
+    },
+    {
+      "merchant": {
+        "address": "#1 2nd street, xyz",
+        "name": "Jack & Jones",
+        "email": "7y4nyxpv@expedia.com",
+        "zipcode": "888888",
+        "merchant_id": "5h6b7awy",
+        "shop_info": [
+          {
+            "description": "Europe\u2019s leading producers of menswear.",
+            "latitude": "12.926667",
+            "address": "#1 2nd street, xyz",
+            "name": "Jack & Jones",
+            "merchant_id": "5h6b7awy",
+            "phone_number": "9876543210",
+            "longitude": " 77.609861",
+            "shop_id": "c53gy96b",
+            "email": "abc@booking.com",
+            "zipcode": "888888",
+            "logo": {
+              "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/logos/c53gy96b/2x.png"
+            }
+          }
+        ]
+      },
+      "minimum_spend": 0.0,
+      "merchant_id": "5h6b7awy",
+      "max_discount": 500.0,
+      "offer_frequency": "On-going",
+      "age_group": "20-45",
+      "num_times_shopped": 570,
+      "max_number_users": 0,
+      "offer_type": "online",
+      "gender": "all",
+      "discount_type": "affiliate",
+      "status": "active",
+      "is_promoted": true,
+      "offer_code": null,
+      "is_activated": false,
+      "offer_id": "mctn45f1",
+      "offer_title": "something",
+      "offer_discount": 12.0,
+      "terms_conditions_url": "https://s3-us-west2.amazonaws.com/beta.chandan.tapmeapp.com.images/expedia.jpg",
+      "discount_end_time": 1562925991,
+      "offer_description": "Jack and Jones is one of Europe\u2019s leading producers of menswear with more than one thousand stores in 38 countries ",
+      "is_student": null,
+      "offer_url_display_text": "https://www.jackjones.com/fr/fr",
+      "terms_conditions_text": "If users abuse your website or mobile app in any way, you can terminate their account. Your \u201cTermination\u201d clause can inform users that their accounts would be terminated if they abuse your service.\nIf users can post content on website or mobile app (create content and share it on your platform), you can remove any content they created if it infringes copyright.Your Terms and Conditions will inform users that they can only create and/or share content they own rights to.Similarly, if users can register for an account and choose an username, you can inform users that they are not allowed to choose usernames that may infringe trademarks, i.e. usernames like Google, Facebook, and so on.\nIf you sell products or services, you could cancel specific orders if a product price is incorrect. Your Terms and Conditions can include a clause to inform users that certain orders, at your sole discretion, can be canceled if the products ordered have incorrect prices due to various errors.",
+      "discount_start_time": 1531389992,
+      "postal_code": null,
+      "offer_url": "http://www.awin1.com/awclick.php?mid=9730&id=495839",
+      "offer_artwork": {
+        "2x": "https://dbhb99rwxls6t.cloudfront.net/shops/offers/mctn45f1/2x.jpg"
+      },
+      "offer_category": "Fashion"
+    }
+  ]
+}
